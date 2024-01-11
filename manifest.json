@@ -19,11 +19,13 @@
         },
         {
             "src": "/workspaces/ExamenFinal/malo_muerto.png",
+
             "sizes": "100x95",
             "type": "image/png"
         },
         {
             "src": "/workspaces/ExamenFinal/game_over.png",
+
             "sizes": "320x160",
             "type": "image/png"
         },
@@ -39,6 +41,7 @@
         },
         {
             "src": "/workspaces/ExamenFinal/shot1.png",
+
             "sizes": "30x30",
             "type": "image/png"
         },
